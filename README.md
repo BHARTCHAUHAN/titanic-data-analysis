@@ -53,7 +53,7 @@ titanic-data-analysis/
 ## 🚀 How to Run
 1. **Clone this repository**  
 ```bash
-git clone https://github.com/YOUR-USERNAME/titanic-data-analysis.git
+git clone https://github.com/BHARTCHAUHAN/titanic-data-analysis.git
 ```
 2. **Install required libraries**  
 ```bash
